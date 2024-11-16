@@ -5,39 +5,39 @@ const Testimonials = () => {
   const testimonialsData = [
     {
       id: 1,
-      name: "John Doe",
+      name: "Student1",
       position: "Student",
       message:
-        "This platform helped me learn so effectively. The courses are amazing and the instructors are top-notch.",
+        "This platform changed my career! The expert-led courses helped me get certified and achieve amazing progress in my career. Highly recommend!",
       image:
-        "https://th.bing.com/th?q=Current+Bachelor&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+        "https://cdn.discordapp.com/attachments/1186754917868777522/1307272529462689812/360_F_516275801_f3Fsp17x6HQK0xQgDQEELoTuERO4SsWV.png?ex=6739b3ea&is=6738626a&hm=d8edea73363f330c4a15ebaf45b5708f4cd81c90c200ec4611cf5adec9d20e5a&",
     },
     {
       id: 2,
-      name: "Jane Smith",
+      name: "Student2",
       position: "Student",
       message:
-        "I've learned more here than in any other place. The interactive lessons and quizzes make learning enjoyable.",
+        "The flexible, engaging content made learning data analysis easy. The hands-on projects were incredibly helpful. Great experience!",
       image:
-        "https://th.bing.com/th/id/OIP.GKAiW3oc2TWXVEeZAzrWOAHaJF?w=135&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "https://cdn.discordapp.com/attachments/1186754917868777522/1307272529462689812/360_F_516275801_f3Fsp17x6HQK0xQgDQEELoTuERO4SsWV.png?ex=6739b3ea&is=6738626a&hm=d8edea73363f330c4a15ebaf45b5708f4cd81c90c200ec4611cf5adec9d20e5a&",
     },
     {
       id: 3,
-      name: "John Doe",
+      name: "Student3",
       position: "Student",
       message:
-        "This platform helped me learn so effectively. The courses are amazing and the instructors are top-notch.",
+        "Perfect for a busy individual like me! Short lessons and an intuitive layout made upskilling in marketing a breeze!",
       image:
-        "https://th.bing.com/th?q=Current+Bachelor&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+        "https://cdn.discordapp.com/attachments/1186754917868777522/1307272529462689812/360_F_516275801_f3Fsp17x6HQK0xQgDQEELoTuERO4SsWV.png?ex=6739b3ea&is=6738626a&hm=d8edea73363f330c4a15ebaf45b5708f4cd81c90c200ec4611cf5adec9d20e5a&",
     },
     {
       id: 4,
-      name: "Jane Smith",
+      name: "Student4",
       position: "Student",
       message:
-        "I've learned more here than in any other place. The interactive lessons and quizzes make learning enjoyable.",
+        "Top-notch courses! The software development track was fun and effective, helping me land a full-time engineering job.",
       image:
-        "https://th.bing.com/th/id/OIP.GKAiW3oc2TWXVEeZAzrWOAHaJF?w=135&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "https://cdn.discordapp.com/attachments/1186754917868777522/1307272529462689812/360_F_516275801_f3Fsp17x6HQK0xQgDQEELoTuERO4SsWV.png?ex=6739b3ea&is=6738626a&hm=d8edea73363f330c4a15ebaf45b5708f4cd81c90c200ec4611cf5adec9d20e5a&",
     },
   ];
   return (
